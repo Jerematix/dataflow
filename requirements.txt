@@ -4,3 +4,8 @@ folium
 fastparquet
 jupyter
 statsmodels
+h3
+geojson
+numpy
+matplotlib
+h3pandas
