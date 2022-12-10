@@ -1,0 +1,6 @@
+pandas
+seaborn
+folium
+fastparquet
+jupyter
+statsmodels
