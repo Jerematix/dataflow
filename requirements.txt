@@ -9,3 +9,7 @@ geojson
 numpy
 matplotlib
 h3pandas
+
+# for neural network regression
+keras
+tensorflow
