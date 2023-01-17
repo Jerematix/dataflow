@@ -11,6 +11,6 @@ matplotlib
 h3pandas
 sklearn
 scikit-learn
-# for neural network regression
+googlemaps
 keras
 tensorflow
