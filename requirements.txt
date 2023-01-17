@@ -9,8 +9,8 @@ geojson
 numpy
 matplotlib
 h3pandas
+sklearn
 scikit-learn
-
 # for neural network regression
 keras
 tensorflow
